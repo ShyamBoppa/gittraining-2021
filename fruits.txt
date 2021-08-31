@@ -1,4 +1,9 @@
 Apple
 Orange
 Mango
+<<<<<<< HEAD
 kiwi
+=======
+Grapes
+
+>>>>>>> d3cce70218336584a691807be75705be8148ddd8
